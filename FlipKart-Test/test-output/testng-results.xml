@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-19T13:29:51Z" name="Default suite" finished-at="2018-11-19T13:30:22Z" duration-ms="31363">
+    <groups>
+    </groups>
+    <test started-at="2018-11-19T13:29:51Z" name="Default test" finished-at="2018-11-19T13:30:22Z" duration-ms="31363">
+      <class name="com.flipkart.tests.FlipkartTest">
+        <test-method is-config="true" signature="before()[pri:0, instance:com.flipkart.tests.FlipkartTest@3e6ef8ad]" started-at="2018-11-19T13:29:51Z" name="before" finished-at="2018-11-19T13:29:57Z" duration-ms="5920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="flipKart()[pri:0, instance:com.flipkart.tests.FlipkartTest@3e6ef8ad]" started-at="2018-11-19T13:29:57Z" name="flipKart" finished-at="2018-11-19T13:30:22Z" duration-ms="25401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipKart -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.flipkart.tests.FlipkartTest@3e6ef8ad]" started-at="2018-11-19T13:30:22Z" name="after" finished-at="2018-11-19T13:30:22Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.flipkart.tests.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
